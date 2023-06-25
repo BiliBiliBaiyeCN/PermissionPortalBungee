@@ -1,0 +1,10 @@
+target-permission: 'agreement.legal'
+# Recommended plugin: Agreement
+
+Target-Server-A: 'Lobby'
+# If target already has the permission's target server.
+# Only server names needed.
+
+Target-Server-B: 'AuthServer'
+# If target doesn't the permission's target server.
+# Only server names needed.
